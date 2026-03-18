@@ -85,7 +85,9 @@ header a:hover{
         font-size: 2vw;
     }
     .bg{
+        background-size: cover;
         margin-top: -10vh;
-        height: 50vh;
+        height: 40vh;
+        width: 100%;
     }
 }
